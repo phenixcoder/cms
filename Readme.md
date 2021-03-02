@@ -6,7 +6,9 @@ Headless CMS with JSON, YAML or XML content API.
 
 Auth0 authentication for management.
 
-Seperate Storage and delivery component for efficient load balancing and reliablity
+Separate Storage and delivery component for efficient load balancing and reliability
 
-Sepearate Managenet App / UI
+Separate Management App / UI
+
+See [Roadmap](Roadmap.md).
 
